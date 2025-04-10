@@ -1,2 +1,4 @@
-https://github.com/frederickjjoubert
-https://frederickjjoubert.github.io
+Hi, my name is Jacques.
+
+Main account: https://github.com/frederickjjoubert
+Personal webite: https://frederickjjoubert.github.io
